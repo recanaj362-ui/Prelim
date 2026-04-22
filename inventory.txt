@@ -1,0 +1,2 @@
+Product: coke | Price: P30.00 | Qty: 15 | Total: P450.00 | Category: Budget | Status: OK
+Product: jj | Price: P90.00 | Qty: 79 | Total: P7110.00 | Category: Budget | Status: OK
